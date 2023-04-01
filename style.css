@@ -9,8 +9,8 @@
 }
 
 body {
-    min-height: 100vh;
-    background: linear-gradient(#2B8D87, #D7F3EC);
+  min-height: 100vh;
+  background: linear-gradient(#2B8D87, #D7F3EC);
 }
 
 ul {
@@ -33,6 +33,11 @@ header {
     z-index: 100;
 }
 
+header:hover ~ * {
+  transform: translateX(-200%);
+  transition: transform 1.5s ease-out;
+}
+
 header .logo {
     color: #fff;
     font-weight: 700;
@@ -52,26 +57,30 @@ header ul {
 header ul li a {
     padding: 6px 20px;
     margin-right: 15px;
-    color: #6e14b3;
+    color: #094440;
     transition: 500ms linear;
     border-radius: 20px;
 }
 
 header ul li a:hover,
 header ul li a.active {
-    background-color: #fff;
-    color: #2b1055;
+    background-color: #ffffff;
+    color: #000000;
 }
 
-.para1 {
+.ThreeD5 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 50px;
+  height: 50px;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 400px;
+  left: 10%;
 }
 
 .para1 img {
   width: 500px;
-  height: 840px;
+  height: 380px;
+  position: absolute;
+  top: 300px;
+  left: 50%;
 }
 

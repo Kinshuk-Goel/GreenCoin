@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(#2B8D87, #D7F3EC);
+}
+
+header:hover ~ * {
+  transform: translateX(-200%);
+  transition: transform 1.5s ease-out;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+header .logo {
+    color: #fff;
+    font-weight: 700;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px
+}
+
+header ul li a {
+    padding: 6px 20px;
+    margin-right: 15px;
+    color: #094440;
+    transition: 500ms linear;
+    border-radius: 20px;
+}
+
+header ul li a:hover,
+header ul li a.active {
+    background-color: #fff;
+    color: #000000;
+}
+
+
+.solid11 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid12 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid13 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid14 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid15 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid16 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid17 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid18 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid19 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid20 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid21 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid22 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid23 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid24 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 60%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid25 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 150px;
+  left: 15%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid26 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 285px;
+  left: 80%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid27 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 255px;
+  left: 8%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid28 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 300px;
+  left: 70%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid29 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 255px;
+  left: -10%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid30 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 330px;
+  left: 40%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid31 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 475px;
+  left: 10%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid32 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 255px;
+  left: 0%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+.solid33 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 380px;
+  left: 35%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
