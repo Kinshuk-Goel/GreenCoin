@@ -11,8 +11,6 @@
 body {
     min-height: 100vh;
     background: linear-gradient(#2B8D87, #D7F3EC);
-    opacity: 0;
-    transition: opacity 5s ease;
 }
 
 ul {
