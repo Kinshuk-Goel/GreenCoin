@@ -10,7 +10,9 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(#2b1055, #7597de);
+    background: linear-gradient(#2B8D87, #D7F3EC);
+    opacity: 0;
+    transition: opacity 5s ease;
 }
 
 ul {
@@ -71,8 +73,7 @@ header ul li a.active {
 }
 
 .para1 img {
-  width: 100%
-  height: auto
-  border: 1px solid black;
-  margin-bottom: 20px;
+  width: 500px;
+  height: 840px;
 }
+
