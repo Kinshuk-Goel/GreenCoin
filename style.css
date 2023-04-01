@@ -52,12 +52,16 @@ header ul {
 header ul li a {
     padding: 6px 20px;
     margin-right: 15px;
-    color: #fff;
+    color: #6e14b3;
+    transition: 500ms linear;
     border-radius: 20px;
 }
 
-header ul li a:hover, 
+header ul li a:hover,
 header ul li a.active {
     background-color: #fff;
     color: #2b1055;
 }
+
+
+
