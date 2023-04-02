@@ -13,6 +13,31 @@ body {
   background: linear-gradient(#2B8D87, #D7F3EC);
 }
 
+button1 {
+  
+}
+
+button2 {
+  background-color: green;
+  position: absolute;
+  top: 100px;
+  left: 25%;
+}
+
+.demonstrateTxt2 {
+  text-align: center;
+  position: absolute;
+  top: 30px;
+  left: -4%;
+}
+
+button1 {
+  background-color: green;
+  position: absolute;
+  top: 100px;
+  left: 25%;
+}
+
 header:hover ~ * {
   transform: translateX(-200%);
   transition: transform 1.5s ease-out;
@@ -20,7 +45,9 @@ header:hover ~ * {
 
 .demonstrateTxt {
   text-align: center;
-  margin-top: 50px;
+  position: absolute;
+  top: 100px;
+  left: 4%;
 }
 
 ul {
@@ -141,22 +168,22 @@ header ul li a.active {
   width: 70px;
   height: 70px;
   position: absolute;
-  top: 200px;
-  left: 40%;
+  top: 10px;
+  left: 57%;
 }/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
 .solid24 img {/*=v=v=v=v==v=v=v=v=*/
   width: 110px;
   height: 110px;
   position: absolute;
-  top: 175px;
-  left: 75%;
+  top: 95px;
+  left: 85%;
 }/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
 .solid25 img {/*=v=v=v=v==v=v=v=v=*/
-  width: 80px;
-  height: 80px;
+  width: 110px;
+  height: 110px;
   position: absolute;
-  top: 150px;
-  left: 20%;
+  top: 95px;
+  left: 10%;
 }/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
 .solid26 img {/*=v=v=v=v==v=v=v=v=*/
   width: 300px;

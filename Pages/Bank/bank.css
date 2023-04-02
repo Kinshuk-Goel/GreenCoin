@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(#2B8D87, #D7F3EC);
+    overflow-x: hidden;
+}
+
+header:hover ~ * {
+  transform: translateX(-200%);
+  transition: transform 1.5s ease-out;
+}
+
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.demonstrateTxt {
+  text-align: center;
+  margin-top: 230px;
+  rotate: 5deg;
+
+}
+.about {
+  margin-top:250px
+}
+
+header .logo {
+    color: #fff;
+    font-weight: 700;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px
+}
+header ul li a {
+    padding: 6px 20px;
+    margin-right: 15px;
+    color: #094440;
+    transition: 500ms linear;
+    border-radius: 20px;
+}
+header ul li a:hover,
+header ul li a.active {
+    background-color: #fff;
+    color: #000000;
+}
+
+.ThreeD17 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 85px;
+  left: 45%;
+}
+.ThreeD17 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */
+.ThreeD11 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 80px;
+  left: 10%;
+}
+.ThreeD11 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */
+.ThreeD5 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 300px;
+  left: 10%;
+}
+.ThreeD5 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */
+.ThreeD7 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 70px;
+  left: 70%;
+}
+.ThreeD7 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */
+.ThreeD8 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 300px;
+  left: 70%;
+}
+.ThreeD8 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */
+.ThreeD12 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 350px;
+  left: 42%;
+}
+.ThreeD12 img:hover {
+  transform: scale(1.2);
+}             /* =v=v=v=v==v=v=v=v==v=v=v=v= */

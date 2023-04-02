@@ -67,20 +67,194 @@ header ul li a.active {
     background-color: #ffffff;
     color: #000000;
 }
-
+.CC3 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 130px;
+  left: 50%;
+}
 .ThreeD5 img {/* =v=v=v=v==v=v=v=v==v=v=v=v= */
   width: 50px;
   height: 50px;
   position: absolute;
-  top: 400px;
+  top: 380px;
   left: 10%;
 }
-
-.para1 img {
-  width: 500px;
-  height: 380px;
+.outline1 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 78px;
+  height: 78px;
   position: absolute;
-  top: 300px;
-  left: 50%;
-}
+  top: 480px;
+  left: 76%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
 
+.outline2 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 480px;
+  left: 56%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline3 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 45px;
+  height:45px;
+  position: absolute;
+  top: 480px;
+  left: 66%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline4 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 99px;
+  height: 99px;
+  position: absolute;
+  top: 380px;
+  left: 99%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline5 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  left: 115%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline6 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 460px;
+  left: 82%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline7 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  left: 73%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline8 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  top: 130px;
+  left: 5%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline9 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 150px;
+  left: 85%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline10 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 260px;
+  left: 24%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline11 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  top: 230px;
+  left: 78%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+
+.outline13 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 260px;
+  left:-4%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline14 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 480px;
+  left:-12%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline15 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 460px;
+  left: 20%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline16 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 460px;
+  left: 65%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline17 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 480px;
+  left: 90%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline18 img {/*=v=v=v=v==v=v=v=v=*/
+  width:45px;
+  height: 45px;
+  position: absolute;
+  top: 480px;
+  left: 55%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline19 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  top: 480px;
+  left: 87%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+
+.outline21 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 440px;
+  left:16%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline22 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 460px;
+  left: 35%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline23 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 80px;
+  left: 11%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
+
+.outline24 img {/*=v=v=v=v==v=v=v=v=*/
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 80px;
+  left: 46%;
+}/*=v=v=v=v==v=v=v=v==v=v=v==v=v=v=v=*/
